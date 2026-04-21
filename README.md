@@ -20,23 +20,7 @@ Data Cleaning & Transformation
 
 The dataset contains retail transaction data including:
 
-Transaction ID
-
-Date
-
-Customer ID
-
-Gender
-
-Age
-
-Product Category
-
-Quantity
-
-Price per Unit
-
-A calculated field (Total Sales = Quantity × Price per Unit) was created for analysis.
+Transaction ID, Date, Customer ID, Gender, Age, Product Category, Quantity, Price per Unit
 
 
 🔄 Process Followed
