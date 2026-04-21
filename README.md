@@ -2,6 +2,7 @@
 Excel-based retail sales analysis dashboard with insights on customer behaviour, product performance, and trends
 
 Retail Sales Analysis Dashboard (Excel Project)
+
 🎯 Objective
 
 The objective of this project is to analyse retail transaction data in order to identify key patterns in customer behaviour, product performance, and sales trends across different segments such as age group, gender, and product category.
